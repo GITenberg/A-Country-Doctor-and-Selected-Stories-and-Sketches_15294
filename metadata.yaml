@@ -16,6 +16,8 @@ description: "A Country Doctor is a novel by American author Sarah Orne Jewett. 
   \ Jewett and her physician father. The main character of A Country Doctor, Nan,\
   \ is a young woman that encounters much strife when she decides to go against the\
   \ traditional values of the day and become a doctor.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15294#A-Country-Doctor-and-Selected-Stories-and-Sketches
 gutenberg_issued: '2005-03-08'
 gutenberg_type: Text
 identifiers:
