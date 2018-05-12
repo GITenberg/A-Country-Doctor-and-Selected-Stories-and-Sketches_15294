@@ -1,0 +1,41 @@
+_repo: A-Country-Doctor-and-Selected-Stories-and-Sketches_15294
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Jewett, Sarah Orne
+    birthdate: 1849
+    deathdate: 1909
+    gutenberg_agent_id: '202'
+    url: http://www.gutenberg.org/2009/agents/202
+    wikipedia: http://en.wikipedia.org/wiki/Sarah_Orne_Jewett
+description: "A Country Doctor is a novel by American author Sarah Orne Jewett. The\
+  \ book, which was first published in 1884, was based on the relationship between\
+  \ Jewett and her physician father. The main character of A Country Doctor, Nan,\
+  \ is a young woman that encounters much strife when she decides to go against the\
+  \ traditional values of the day and become a doctor.\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2005-03-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15294'
+  wikidata: Q17108195
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Maine -- Social life and customs -- Fiction'
+- !lcsh 'United States -- Social life and customs -- 19th century -- Fiction'
+tableOfContents: 'A country doctor -- Selected stories and sketches: Stories from
+  strangers and wayfarers: A winter courtship; Going to Shrewsbury; The white rose
+  road; The town poor -- Stories from A native of Winby and other tales: A native
+  of Winby -- Looking back on girlhood -- More stories from A native of Winby and
+  other tales: The passing of Sister Barsett; Decoration day; The flight of Betsey
+  Lane; The gray mills of Farley.'
+title: A Country Doctor and Selected Stories and Sketches
+url: http://www.gutenberg.org/ebooks/15294
+wikipedia:
+- https://en.wikipedia.org/wiki/A_Country_Doctor_(novel)
